@@ -1,1 +1,2 @@
-My first time to update a readme on github
+## My Other Readme
+This file is mandatory
